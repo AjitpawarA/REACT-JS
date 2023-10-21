@@ -1,0 +1,29 @@
+.cardpage{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+.maincard{
+    width: 400px;
+    border: 1px solid black;
+    padding: 20px;
+    margin: 20px;
+}
+.maincard img{
+    width: 100%;
+}
+.maincard button{
+    border: none;
+    padding: 0;
+    margin: 0;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.maincard .title{
+    font-size: 20px;
+    
+}
+.maincard .desc{
+    font-size: 10px;
+    
+}
