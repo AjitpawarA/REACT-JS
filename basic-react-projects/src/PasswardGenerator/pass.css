@@ -1,0 +1,48 @@
+.container{
+    width: 100%;
+    padding: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.main{
+    width: 100%;
+    display: flex;
+    border: 1px solid black;
+    border-radius: 20px;
+}
+
+.passwardgenrator{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.one{
+    width: 70%;
+    display: flex;
+    padding: 10px;
+}
+
+.two{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.lengthdiv{
+    display: flex;
+}
+
+.two div label{
+    margin-right: 25px;
+    margin-left: 25px;
+}
