@@ -12,7 +12,7 @@ function App() {
     <>
       <Navbar />
       
-      <div className="container">
+      <div className="container" id="cont">
         <div className="main">
           <Card
             btntext="Visit me"
